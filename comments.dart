@@ -23,7 +23,7 @@ void main(List<String> args) {
   var notIgnored = "Dragon";
   print(notIgnored);
 
-  // Documentation code
+  // Documentation Comments
   /// This variable contains the greeting the program will give the user
   String greeting = "Hello Programmer! I'm your trusty computer";
   print(greeting);
